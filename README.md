@@ -6,6 +6,6 @@ cd FILE-MAKEX
 python dumper.py
 ```
 
-<h4 align="center">FILE MAKING  TOOLS  ðŸ™‚</h4>
+<h4 align="center">FILE MAKING  TOOLS‚</h4>
 
 ###
