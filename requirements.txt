@@ -1,0 +1,9 @@
+telebot
+Pillow
+psutil
+pytz
+qrcode[pil]
+requests
+pycryptodome
+protobuf
+Werkzeug
